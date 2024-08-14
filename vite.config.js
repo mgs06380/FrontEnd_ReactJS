@@ -8,10 +8,10 @@ export default defineConfig({
   server: {
     port: 3000
   },
-  //absolute path
+  //absolute path 
   resolve: {
     alias: {
       src: "/src",
     }
-  },
+  },   
 })
